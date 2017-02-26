@@ -15,7 +15,7 @@ namespace turboEnigma.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Inspired students inspiring other to play chess online -- for free!";
 
             return View();
         }
