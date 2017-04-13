@@ -1,3 +1,6 @@
+# NEW PROJECT LOCATION:
+https://github.com/Cyberdr8gon/turbo-enigma3
+
 # turboEnigma
 
 # Collaborators
